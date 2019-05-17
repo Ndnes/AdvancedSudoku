@@ -112,5 +112,11 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AdvancedSudokuLibrary\AdvancedSudokuLibrary.csproj">
+      <Project>{6f419da0-d3d7-4a45-a396-381f84233aa0}</Project>
+      <Name>AdvancedSudokuLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
