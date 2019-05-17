@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedSudokuUI", "AdvancedSudokuUI\AdvancedSudokuUI.csproj", "{C8D6D7ED-56CE-4FCA-96E5-A4B171BC2733}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedSudokuLibrary", "AdvancedSudokuLibrary\AdvancedSudokuLibrary.csproj", "{6F419DA0-D3D7-4A45-A396-381F84233AA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C8D6D7ED-56CE-4FCA-96E5-A4B171BC2733}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D6D7ED-56CE-4FCA-96E5-A4B171BC2733}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D6D7ED-56CE-4FCA-96E5-A4B171BC2733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F419DA0-D3D7-4A45-A396-381F84233AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F419DA0-D3D7-4A45-A396-381F84233AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F419DA0-D3D7-4A45-A396-381F84233AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F419DA0-D3D7-4A45-A396-381F84233AA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
